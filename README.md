@@ -27,15 +27,6 @@ On my personal time, I explore **Rust**, systems design, and projects that feel 
 
 ---
 
-## 🧩 What I enjoy working on
-
-- **Backend architecture** (Clean Architecture, DDD, CQRS, APIs)
-- **Developer tools** (automation, workflows, DX)
-- **Infrastructure building blocks** (secrets, orchestration, deployment)
-- **Game tech experiments** (procedural systems, engines, simulation)
-
----
-
 ## 🚀 Featured projects
 
 ### 🧙 Fantasy Realm — Character Manager
@@ -48,65 +39,17 @@ A web app to create and manage MMORPG characters for **FantasyRealm Online**, bu
 
 ---
 
-### 🧠 AEI Framework
-An experimental **autonomous intelligence framework**, built with a focus on long-term evolution:
-- modular design
-- self-adaptation
-- event-driven building blocks for agents
-
-🔗 https://github.com/pierrick-fonquerne/aei-framework
-
----
-
-### 🚀 LightShuttle
-A lightweight and developer-friendly **orchestrator for containerized applications**, written in Rust.
-Designed as a pragmatic playground for automation + deployment workflows.
-
-🔗 https://github.com/pierrick-fonquerne/lightshuttle
-
----
-
-### 🛡️ Egide
-An open-source **secrets management / key management (KMS)** platform:
-- encrypted storage
-- secure access patterns
-- designed with infra-first thinking
-
-🔗 https://github.com/pierrick-fonquerne/egide
-
----
-
-### 🏁 Flaps
-A Rust project around **feature flags** and controlled rollouts (WIP).
-Because shipping safely is a superpower.
-
-🔗 https://github.com/pierrick-fonquerne/flaps
-
----
-
-### 🧩 Synarion Engine
-A professional open-source **3D game engine written in Rust with Vulkan** (WIP).
-Big ambition, lots of learning, and a ton of fun.
-
-🔗 https://github.com/pierrick-fonquerne/synarion-engine
-
----
-
 ## 🧰 Tech stack
 
 **Main**
 - C# / .NET
+- Rust
 - Angular
+- React
 - PostgreSQL
 - Microsoft SQL Server
-
-**Also enjoy**
-- Rust
-- React
 - Docker + K8s
-- Azure DevOps / GitHub Actions
-
----
+- Azure
 
 ## 📫 Contact
 
