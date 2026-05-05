@@ -39,34 +39,6 @@ A web app to create and manage MMORPG characters for **FantasyRealm Online**, bu
 
 ---
 
-### 🧩 Synarion Engine
-A professional open-source **3D game engine written in Rust with Vulkan** (WIP).
-Big ambition, lots of learning, and a ton of fun.
-
-🔗 https://github.com/pierrick-fonquerne/synarion-engine
-
----
-
-### 🧠 AEI Framework
-An experimental **autonomous intelligence framework**, built with a focus on long-term evolution:
-- modular design
-- self-adaptation
-- event-driven building blocks for agents
-
-🔗 https://github.com/pierrick-fonquerne/aei-framework
-
----
-
-### 🛡️ Egide
-An open-source **secrets management / key management (KMS)** platform:
-- encrypted storage
-- secure access patterns
-- designed with infra-first thinking
-
-🔗 https://github.com/pierrick-fonquerne/egide
-
----
-
 ## 🧰 Tech stack
 
 **Main**
