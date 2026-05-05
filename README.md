@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pierrick-fonquerne">
-    <img src="https://img.shields.io/badge/GitHub-pierrick--fonquerne-181717?logo=github&logoColor=white" />
-  </a>
   <a href="mailto:pierrick.fonquerne@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/pierrick-fonquerne">
+    <img src="https://img.shields.io/badge/GitHub-pierrick--fonquerne-181717?logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pierrickfonquerne">
     <img src="https://img.shields.io/badge/LinkedIn-Pierrick%20Fonquerne-0A66C2?logo=linkedin&logoColor=white" />
