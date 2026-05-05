@@ -20,16 +20,14 @@
 
 ## 👋 About me
 
-I'm a developer who loves building **real products** — from clean backend architectures to developer tools, infra components, and sometimes experimental game tech.
-
 Most days I'm working with **.NET / C#** and **Angular**.  
-On my personal time, I explore **Rust**, systems design, and projects that feel like long-term “platform building”.
+On my personal time, I explore **Rust** and systems design.
 
 ---
 
 ## 🚀 Featured projects
 
-### 🧙 Fantasy Realm — Character Manager
+### 🧙 Fantasy Realm Character Manager
 A web app to create and manage MMORPG characters for **FantasyRealm Online**, built for both web & mobile.
 - Character customization
 - RPG data modeling & progression logic
