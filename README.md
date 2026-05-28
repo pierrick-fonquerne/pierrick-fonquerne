@@ -15,11 +15,11 @@ Rust on the side.
 
 ## Featured projects
 
-- **Nubster** — software startup, currently founding it.
-- **Stellar Imperiums** — multiplayer space game (.NET 10, PostgreSQL, MongoDB, React 19).
-- **FantasyRealm Character Manager** — character sheets and progression for a fictional MMORPG (.NET, React, PostgreSQL, MongoDB).
-- **Synarion Engine** — 3D engine in Rust + Vulkan, ~55-crate Cargo workspace.
-- **personal-website** — this site, where I publish my projects and notes.
+- **Nubster** : software startup, currently founding it.
+- **Stellar Imperiums** : multiplayer space game (.NET 10, PostgreSQL, MongoDB, React 19).
+- **FantasyRealm Character Manager** : character sheets and progression for a fictional MMORPG (.NET, React, PostgreSQL, MongoDB).
+- **Synarion Engine** : 3D engine in Rust + Vulkan, ~55-crate Cargo workspace.
+- **personal-website** : this site, where I publish my projects and notes.
 
 More on [pierrickfonquerne.com/en/projects](https://pierrickfonquerne.com/en/projects).
 
