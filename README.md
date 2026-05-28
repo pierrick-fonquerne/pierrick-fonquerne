@@ -33,15 +33,6 @@ More on [pierrickfonquerne.com/en/projects](https://pierrickfonquerne.com/en/pro
 
 ---
 
-## GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pierrick-fonquerne&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrick-fonquerne&theme=tokyonight&hide_border=true&layout=compact" height="165" />
-</p>
-
----
-
 ## Get in touch
 
 - contact@pierrickfonquerne.com
