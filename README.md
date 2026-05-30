@@ -21,7 +21,7 @@ Rust on the side.
 - **Synarion Engine** : 3D engine in Rust + Vulkan, ~55-crate Cargo workspace.
 - **personal-website** : this site, where I publish my projects and notes.
 
-More on [pierrickfonquerne.com/en/projects](https://pierrickfonquerne.com/en/projects).
+More on [pierrickfonquerne.com/en/projects](https://pierrick.fonquerne.com/en/projects).
 
 ---
 
@@ -36,6 +36,6 @@ More on [pierrickfonquerne.com/en/projects](https://pierrickfonquerne.com/en/pro
 ## Get in touch
 
 - contact@pierrickfonquerne.com
-- [pierrickfonquerne.com](https://pierrickfonquerne.com)
+- [pierrickfonquerne.com](https://pierrick.fonquerne.com)
 - [LinkedIn](https://www.linkedin.com/in/pierrickfonquerne)
 - [crates.io](https://crates.io/users/pierrick-fonquerne)
