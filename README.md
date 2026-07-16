@@ -43,7 +43,3 @@ More on [pierrick.fonquerne.com/en/projects](https://pierrick.fonquerne.com/en/p
 - [pierrick.fonquerne.com](https://pierrick.fonquerne.com)
 - [LinkedIn](https://www.linkedin.com/in/pierrickfonquerne)
 - [crates.io](https://crates.io/users/pierrick-fonquerne)
-
-- [pierrick.fonquerne.com](https://pierrick.fonquerne.com)
-- [LinkedIn](https://www.linkedin.com/in/pierrickfonquerne)
-- [crates.io](https://crates.io/users/pierrick-fonquerne)
